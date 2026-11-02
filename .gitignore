@@ -3,3 +3,8 @@
 
 # W&B generates local run logs and metadata.
 /wandb/
+
+# Python bytecode and local virtual environments.
+__pycache__/
+*.py[cod]
+/.venv/
