@@ -1,0 +1,5 @@
+# CIFAR-10 is downloaded by the notebooks and should remain local.
+/data/
+
+# W&B generates local run logs and metadata.
+/wandb/
